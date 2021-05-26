@@ -1,0 +1,210 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+div {
+  background-color: #a7c5eb;
+}
+
+.top-container {
+  padding-top: 150px;
+  background-color: #a7c5eb;
+}
+
+/*
+.top-container-hider {
+
+    height: 25px;
+    width: 100%;
+    background-color: #a7c5eb;
+    position: absolute;
+    top: 625px;
+}
+*/
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  color: #413c69;
+  margin: 5px auto 0 auto;
+  position: relative;
+  top: 0;
+}
+
+h2 {
+  font-family: 'Fredericka the Great', cursive;
+  color: #413c69;
+  font-size: 3rem;
+}
+
+h3 {
+  font-family: 'Oswald', sans-serif;
+  color: #413c69;
+  font-size: 1.5rem;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-color: #02475e;
+  border-width: 10px;
+  height: 0;
+  margin: 100px auto;
+  width: 6%;
+}
+
+p {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.25rem;
+  font-weight: normal;
+  color: #413c69;
+  line-height: 2;
+  position: relative;
+  top: 0;
+}
+
+a {
+  color: #435560;
+  font-family: cursive, arial, sans-serif;
+  text-decoration: none;
+  margin: 10px 20px;
+}
+
+a:hover {
+  color: white;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+  padding-bottom: 0;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+}
+
+.pine-left {
+  height: 200px;
+  width: 150px;
+  position: absolute;
+  top: 485px;
+  display: none;
+}
+
+.cave {
+  position: relative;
+  height: 350px;
+  width: 350px;
+  bottom: 0;
+  top: 15px;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.pine-right {
+  height: 200px;
+  width: 150px;
+  position: absolute;
+  top: 485px;
+  left: 819px;
+  display: none;
+}
+
+.Web-Design-Img {
+  height: 720px;
+  width: 100%;
+  margin: 50px auto 10px auto;
+}
+
+.chillies-img {
+  margin-right: 30px;
+  float: left;
+  width: 25%;
+}
+
+.profile {
+  background-color: #faf3f3;
+  padding: 50px 0;
+}
+
+.middle-container {
+  background-color: #faf3f3;
+  padding-bottom: 60px;
+}
+
+.skills {
+  background-color: #faf3f3;
+  padding: 50px 0;
+}
+
+.skill-row-1 {
+  background-color: #faf3f3;
+}
+
+.skill-row-2 {
+  line-height: 2;
+  margin: 50px auto;
+  width: 50%;
+  text-align: left;
+  background-color: #faf3f3;
+}
+
+.contact-me {
+  background-color: #faf3f3;
+  padding: 40px 0;
+}
+
+.contatctme-p {
+  width: 30%;
+  margin: 40px auto 40px;
+}
+
+.bottom-container {
+  padding: 50px 0;
+  line-height: 2;
+}
+
+.copyright {
+font-size: 0.75rem;
+font-family: sans-serif;
+color: white;
+padding: 20px 0 0;
+}
+
+.BUTTON_CFN {
+   background: #4A47A3;
+   background-image: -webkit-linear-gradient(top, #4A47A3, #413C69);
+   background-image: -moz-linear-gradient(top, #4A47A3, #413C69);
+   background-image: -ms-linear-gradient(top, #4A47A3, #413C69);
+   background-image: -o-linear-gradient(top, #4A47A3, #413C69);
+   background-image: -webkit-gradient(to bottom, #4A47A3, #413C69);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 0;
+   line-height: 0;
+   color: #FFFFFF;
+   font-family: Tahoma;
+   width: 102px;
+   font-size: 15px;
+   font-weight: 100;
+   padding: 20px;
+   text-shadow: 0 2px 12px #4A47A3;
+   border: solid #413C69 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_CFN:hover {
+   background: #00EAD3;
+   border: solid #00EAD3 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
